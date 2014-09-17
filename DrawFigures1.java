@@ -14,6 +14,7 @@ public class DrawFigures1 {
         System.out.println("  /  \\");
         System.out.println(" /    \\");
         System.out.println();
+		//comments have been put here.
         System.out.println("   /\\");
         System.out.println("  /  \\");
         System.out.println(" /    \\");
